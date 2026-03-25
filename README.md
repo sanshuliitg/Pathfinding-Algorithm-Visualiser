@@ -1,4 +1,4 @@
-# Pathfinding Algorithm Visualizer
+# Pathfinding Algorithm Visualiser
 
 A dynamic pathfinding visualizer built with React.js that implements graph traversal algorithms to compute and animate optimal paths in real time. This project features a high-performance visualization engine using asynchronous JavaScript and direct DOM manipulation to deliver smooth algorithm exploration while avoiding expensive React re-renders.
 
@@ -47,8 +47,8 @@ A dynamic pathfinding visualizer built with React.js that implements graph trave
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/sanshuliitg/Pathfinding-Algorithm-Visualizer.git
-   cd Pathfinding Algorithm Visualizer
+   git clone https://github.com/sanshuliitg/Pathfinding-Algorithm-Visualiser.git
+   cd Pathfinding-Algorithm-Visualiser
    ```
 
 2. Install the required dependencies:
