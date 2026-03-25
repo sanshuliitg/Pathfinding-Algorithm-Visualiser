@@ -1,4 +1,4 @@
-# GridNav
+# Pathfinding Algorithm Visualizer
 
 A dynamic pathfinding visualizer built with React.js that implements graph traversal algorithms to compute and animate optimal paths in real time. This project features a high-performance visualization engine using asynchronous JavaScript and direct DOM manipulation to deliver smooth algorithm exploration while avoiding expensive React re-renders.
 
