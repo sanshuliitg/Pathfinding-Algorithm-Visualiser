@@ -48,7 +48,7 @@ A dynamic pathfinding visualizer built with React.js that implements graph trave
 
    ```bash
    git clone https://github.com/sanshuliitg/GridNav.git
-   cd GridNav
+   cd Pathfinding Algorithm Visualizer
    ```
 
 2. Install the required dependencies:
